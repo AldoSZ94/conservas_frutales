@@ -1,0 +1,14 @@
+PREGUNTA 1
+----------
+¿Dónde conviene instalar el centro de distribución?
+R.- En un corredor central ubicado estratégicamente entre Córdoba, Mendoza y La Plata.
+
+PREGUNTA 2
+----------
+¿Cuál es el producto con mayor cantidad de unidades vendidas?
+R.- Mermelada de frambuesa, con 3,518,597 unidades vendidas.
+
+PREGUNTA 3
+----------
+¿En qué mes se produjo la mayor cantidad de ventas en unidades?
+R.- En Diciembre, con una venta total de 3,093,156 unidades.
