@@ -1,6 +1,6 @@
 # 🏬 Análisis Logístico y de Ventas por Producto
 
-Este es mi proyecto N°2 del curso de Udemy **"Power BI TOTAL en 14 días - Analista de datos avanzado"**. En este caso, el análisis busca responder a tres preguntas clave relacionadas con la ubicación óptima para un centro de distribución, los productos más vendidos y la estacionalidad en las ventas durante el año. El dashboard permite visualizar los datos de forma interactiva y estratégica para apoyar decisiones logísticas y comerciales.
+Este es mi **proyecto N°2** del curso de Udemy **"Power BI TOTAL en 14 días - Analista de datos avanzado"**. En este caso, el análisis busca responder a tres preguntas clave relacionadas con la ubicación óptima para un centro de distribución, los productos más vendidos y la estacionalidad en las ventas durante el año. El dashboard permite visualizar los datos de forma interactiva y estratégica para apoyar decisiones logísticas y comerciales.
 
 ---
 
